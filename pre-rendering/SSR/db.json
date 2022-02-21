@@ -1,0 +1,22 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "title": "New Article 1",
+      "category": "sports",
+      "desc": "description 1"
+    },
+    {
+      "id": 2,
+      "title": "New Article 2",
+      "category": "politics",
+      "desc": "description 2"
+    },
+    {
+      "id": 3,
+      "title": "New Article 3",
+      "category": "sports",
+      "desc": "description 3"
+    }
+  ]
+}

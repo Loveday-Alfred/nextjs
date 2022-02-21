@@ -1,0 +1,80 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Event 1",
+      "desc": "Description 1",
+      "category": "sports",
+      "date": "April 25th"
+    },
+    {
+      "id": 2,
+      "title": "Event 2",
+      "desc": "Description 2",
+      "category": "food",
+      "date": "April 15th"
+    },
+    {
+      "id": 3,
+      "title": "Event 3",
+      "desc": "Description 3",
+      "category": "art",
+      "date": "April 20th"
+    },
+    {
+      "id": 4,
+      "title": "Event 4",
+      "desc": "Description 4",
+      "category": "technology",
+      "date": "April 22th"
+    },
+    {
+      "id": 5,
+      "title": "Event 5",
+      "desc": "Description 5",
+      "category": "sports",
+      "date": "April 252th"
+    },
+    {
+      "id": 6,
+      "title": "Event 6",
+      "desc": "Description 6",
+      "category": "sports",
+      "date": "April 29th"
+    },
+    {
+      "id": 7,
+      "title": "Event 7",
+      "desc": "Description 7",
+      "category": "sports",
+      "date": "April 5th"
+    },
+    {
+      "id": 8,
+      "title": "Event 8",
+      "desc": "Description 8",
+      "category": "food",
+      "date": "April 24th"
+    },
+    {
+      "id": 9,
+      "title": "Event 9",
+      "desc": "Description 9",
+      "category": "art",
+      "date": "April 2nd"
+    },
+    {
+      "id": 10,
+      "title": "Event 10",
+      "desc": "Description 10",
+      "category": "technology",
+      "date": "April 30th"
+    }
+  ],
+  "dashboard": {
+    "post": 5,
+    "likes": 100,
+    "followers": 20,
+    "following": 50
+  }
+}
